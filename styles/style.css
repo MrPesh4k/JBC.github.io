@@ -1,0 +1,21 @@
+#logo {
+    text-align: center;
+}
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 120px;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    text-shadow:rgb(116, 0, 139);
+}
+h1:hover {
+    color: rgb(116, 0, 139);
+    cursor: pointer;
+}
+
+body{
+ background-color: #000000;
+}
+#song1 {
+    text-align: center;
+}
