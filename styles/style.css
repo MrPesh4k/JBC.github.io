@@ -9,12 +9,12 @@ h1 {
     text-shadow:rgb(116, 0, 139);
 }
 h1:hover {
-    color: rgb(116, 0, 139);
+    color: rgb(255, 255, 255);
     cursor: pointer;
 }
 
 body{
- background-color: #000000;
+ background-color: #FFFFFF;
 }
 #song1 {
     text-align: center;
